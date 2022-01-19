@@ -1,0 +1,29 @@
+body{
+    margin:auto
+}
+#header{
+    height: 50px;
+    background-color: #949691;
+}
+
+#icon{
+margin-left: 1%;
+margin-top: 1%;
+margin-bottom: 2%;
+position: absolute;
+}
+
+#title{
+    margin-left: 1%;
+    position: absolute;
+    margin-top: -0.1px;
+    font-size: xx-large;
+    color: whitesmoke !important;
+}
+
+#coupon{
+    height: 389px;
+    width: 631px;
+    background-color: gray;
+    z-index: 100;
+}
